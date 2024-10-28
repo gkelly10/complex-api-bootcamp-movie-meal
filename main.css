@@ -1,0 +1,53 @@
+.bigsection{
+    text-align: center;
+    background-color: rgb(134, 183, 235);
+    width: 730px;
+    margin-left: 373px;
+    border-radius: 30px;
+}
+h1{
+    font-size: 30px;
+    color: rgb(7, 87, 172);
+    padding-top: 20px;
+}
+input, button{
+    height: 20px;
+    background-color: rgb(186, 210, 235);
+    border: none;
+    border-radius: 30px;
+    text-align: center;
+    color: rgb(7, 87, 172);
+}
+#mealPic{
+    width: 300px;
+    height: 400px;
+}
+.mealTitle, .movietitle{
+    font: 20px;
+    color: rgb(7, 87, 172);
+}
+.meal, .movie{
+    font: 17px;
+    color: rgb(7, 87, 172);
+}
+.movieSection{
+    /* width: 700px; */
+    background-color: rgb(186, 210, 235);
+    /* border: none;
+    border-radius: 30px;
+    padding-bottom: 15px;
+    margin-left: 15px; */
+}
+#moviePlot{
+    width: 526px;
+    margin-left: 85px;
+}
+#mealSource{
+    background-color: rgb(186, 210, 235);
+    border: none;
+    border-radius: 30px;
+    width: 700px;
+    margin-left: 15px;
+    /* height: 25px; */
+    padding-top: 3px;
+}
